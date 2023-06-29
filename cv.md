@@ -10,7 +10,8 @@
 * GlitHub: PegovOleg
   
 ##
-# Briefly about yourself:
+
+### About yourself:
  * no programming experience
  * but there is a desire to learn
  * higher education
