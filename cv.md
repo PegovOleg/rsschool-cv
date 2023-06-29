@@ -15,6 +15,7 @@
  * no programming experience
  * but there is a desire to learn
  * higher education
+ * I am fond of the mobile version of the Canva editor
  * english level: ***Elementary***
  
 
