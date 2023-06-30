@@ -9,7 +9,6 @@
 * phone: +375(29) 170-75-58
 * GlitHub: PegovOleg
   
-##
 
 ### About yourself:
  * no programming experience
